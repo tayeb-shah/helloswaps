@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-### [Visit us ➡️ helloswaps](https://shah-tayeb.github.io/helloswaps/)
+### [Visit us ➡️ helloswaps](https://tayeb-shah.github.io/helloswaps/)
 
 ## 💫 About Me
 
